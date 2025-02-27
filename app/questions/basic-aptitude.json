@@ -1,0 +1,243 @@
+[
+    {
+      "questionNumber": 1,
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ?",
+      "options": [
+        "18",
+        "32",
+        "24",
+        "40"
+      ],
+      "correctAnswer": "32",
+      "difficulty": "Easy"
+    },
+    {
+      "questionNumber": 2,
+      "question": "If a car travels 60 kilometers in 1 hour, how far will it travel in 5 hours?",
+      "options": [
+        "250 km",
+        "300 km",
+        "350 km",
+        "200 km"
+      ],
+      "correctAnswer": "300 km",
+      "difficulty": "Easy"
+    },
+    {
+      "questionNumber": 3,
+      "question": "Which of the following is the largest prime number?",
+      "options": [
+        "11",
+        "13",
+        "17",
+        "19"
+      ],
+      "correctAnswer": "19",
+      "difficulty": "Easy"
+    },
+    {
+      "questionNumber": 4,
+      "question": "What is the value of 7 * 8 + 6?",
+      "options": [
+        "58",
+        "62",
+        "64",
+        "56"
+      ],
+      "correctAnswer": "62",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 5,
+      "question": "If a train travels at a speed of 72 km/h, how long will it take to travel 180 km?",
+      "options": [
+        "2 hours",
+        "3 hours",
+        "4 hours",
+        "5 hours"
+      ],
+      "correctAnswer": "2 hours",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 6,
+      "question": "A box contains 3 red balls, 5 blue balls, and 2 green balls. What is the probability of drawing a blue ball?",
+      "options": [
+        "3/10",
+        "5/10",
+        "2/10",
+        "1/10"
+      ],
+      "correctAnswer": "5/10",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 7,
+      "question": "What is the value of x if 3x + 7 = 22?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "5",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 8,
+      "question": "The sum of three consecutive numbers is 33. What is the middle number?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctAnswer": "11",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 9,
+      "question": "If a person buys 3 pencils for $1.50, how much will 10 pencils cost?",
+      "options": [
+        "$5.00",
+        "$4.50",
+        "$5.50",
+        "$6.00"
+      ],
+      "correctAnswer": "$5.00",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 10,
+      "question": "What is the ratio of 15 to 20?",
+      "options": [
+        "3:4",
+        "2:3",
+        "4:5",
+        "5:6"
+      ],
+      "correctAnswer": "3:4",
+      "difficulty": "Medium"
+    },
+    {
+      "questionNumber": 11,
+      "question": "If a clock shows 3:15, what angle is formed between the hour and minute hands?",
+      "options": [
+        "0°",
+        "45°",
+        "90°",
+        "22.5°"
+      ],
+      "correctAnswer": "22.5°",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 12,
+      "question": "What is the greatest common divisor (GCD) of 36 and 48?",
+      "options": [
+        "4",
+        "6",
+        "12",
+        "18"
+      ],
+      "correctAnswer": "12",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 13,
+      "question": "A rectangle has a length of 10 cm and a width of 5 cm. What is its area?",
+      "options": [
+        "25 cm²",
+        "50 cm²",
+        "15 cm²",
+        "30 cm²"
+      ],
+      "correctAnswer": "50 cm²",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 14,
+      "question": "What is the average of 6, 12, 18, 24, and 30?",
+      "options": [
+        "18",
+        "20",
+        "22",
+        "25"
+      ],
+      "correctAnswer": "18",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 15,
+      "question": "The perimeter of a square is 36 cm. What is the length of one side?",
+      "options": [
+        "4 cm",
+        "6 cm",
+        "8 cm",
+        "9 cm"
+      ],
+      "correctAnswer": "9 cm",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 16,
+      "question": "What is the value of x in the equation 2x - 5 = 9?",
+      "options": [
+        "4",
+        "5",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 17,
+      "question": "A car travels at 60 km/h for 3 hours and then at 80 km/h for 2 hours. What is the total distance traveled?",
+      "options": [
+        "240 km",
+        "260 km",
+        "280 km",
+        "300 km"
+      ],
+      "correctAnswer": "260 km",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 18,
+      "question": "The sum of two numbers is 72, and their difference is 12. What are the numbers?",
+      "options": [
+        "30 and 42",
+        "32 and 40",
+        "35 and 37",
+        "36 and 36"
+      ],
+      "correctAnswer": "30 and 42",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 19,
+      "question": "A shopkeeper sells an article for $200 and earns a profit of 25%. What is the cost price of the article?",
+      "options": [
+        "$150",
+        "$160",
+        "$170",
+        "$180"
+      ],
+      "correctAnswer": "$160",
+      "difficulty": "Hard"
+    },
+    {
+      "questionNumber": 20,
+      "question": "What is the value of the expression: (5 * 3) + (7 * 2)?",
+      "options": [
+        "23",
+        "29",
+        "31",
+        "35"
+      ],
+      "correctAnswer": "29",
+      "difficulty": "Hard"
+    }
+  ]
+  
