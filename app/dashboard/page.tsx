@@ -168,3 +168,16 @@
 //     </div>
 //   );
 // }
+"use client";
+
+const DummyComponent = () => {
+  return <div>Hello World</div>;
+};
+
+export default function Page() {
+  return (
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-all">
+      <DummyComponent />
+    </div>
+  );
+}
